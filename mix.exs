@@ -111,6 +111,7 @@ defmodule NervesSystemRpi3.MixProject do
       "fwup.conf",
       "LICENSE",
       "linux.fragment",
+      "busybox.fragment",
       "mix.exs",
       "nerves_defconfig",
       "post-build.sh",
